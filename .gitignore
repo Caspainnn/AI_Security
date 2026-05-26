@@ -1,0 +1,16 @@
+/.idea
+/.venv
+/.venv_torch
+/.vscode
+/tf_2.5.1
+/torch_2.2.1
+/Lab11-1-Red/CybersecurityBenchmarks
+__pycache__/
+data/
+/paddle
+/openai_1.3.6
+/.Lab_13_1_env
+/Lab14-1/Real_Time_Voice_Cloning
+/Lab15-1/YOLOV5_safetyHat/data
+/Lab15-1/YOLOV5_safetyHat/.github
+/Lab2-2/dataset
